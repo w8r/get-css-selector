@@ -1,0 +1,28 @@
+{
+  "name": "classname-to-css-selector",
+  "version": "1.0.0",
+  "description": "converts lists of classNames to querySelector-ready string",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w8r/get-css-selector.git"
+  },
+  "keywords": [
+    "css",
+    "classname",
+    "selector",
+    "querySelector"
+  ],
+  "author": "Alexander Milevski <info@w8r.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w8r/get-css-selector/issues"
+  },
+  "homepage": "https://github.com/w8r/get-css-selector#readme",
+  "devDependencies": {
+    "tape": "^4.0.1"
+  }
+}
